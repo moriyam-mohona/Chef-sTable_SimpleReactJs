@@ -1,0 +1,86 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Beef Stir Fry",
+    "short_description": "A savory beef stir fry with broccoli and bell peppers.",
+    "ingredients": [
+      "500g beef sirloin",
+      "120ml soy sauce",
+      "200g broccoli",
+      "150g bell peppers"
+    ],
+    "preparing_time": "35 min",
+    "calories": "380 calories",
+    "recipe_image": "https://ibb.co/V97fwbF"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "Classic Italian pasta dish with creamy sauce and bacon.",
+    "ingredients": [
+      "400g spaghetti",
+      "200g bacon",
+      "4 eggs",
+      "100g grated Parmesan cheese"
+    ],
+    "preparing_time": "20 min",
+    "calories": "420 calories",
+    "recipe_image": "https://ibb.co/b3TRD0s"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Grilled Shrimp Tacos",
+    "short_description": "Tasty tacos with grilled shrimp, salsa, and avocado.",
+    "ingredients": [
+      "300g shrimp",
+      "8 small tortillas",
+      "1 avocado",
+      "100g salsa"
+    ],
+    "preparing_time": "30 min",
+    "calories": "300 calories",
+    "recipe_image": "https://ibb.co/1Q6rZN1"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Stir Fry",
+    "short_description": "A healthy vegetable stir fry with tofu and sesame seeds.",
+    "ingredients": [
+      "400g mixed vegetables",
+      "200g tofu",
+      "120ml soy sauce",
+      "50g sesame seeds"
+    ],
+    "preparing_time": "25 min",
+    "calories": "250 calories",
+    "recipe_image": "https://ibb.co/hKX9M3H"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Blueberry Pancakes",
+    "short_description": "Fluffy pancakes filled with juicy blueberries.",
+    "ingredients": [
+      "200g blueberries",
+      "200g flour",
+      "2 eggs",
+      "100ml milk"
+    ],
+    "preparing_time": "30 min",
+    "calories": "350 calories",
+    "recipe_image": "https://ibb.co/N3f9vdD"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Mango Salsa Chicken",
+    "short_description": "Grilled chicken topped with fresh mango salsa.",
+    "ingredients": [
+      "500g chicken breast",
+      "2 ripe mangoes",
+      "1 red onion",
+      "1 jalapeno pepper"
+    ],
+    "preparing_time": "35 min",
+    "calories": "320 calories",
+    "recipe_image": "https://ibb.co/tscYYCY"
+  }
+]
